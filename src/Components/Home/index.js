@@ -1,7 +1,11 @@
 function Home() {
 
     return (
-        <div> Portfolio </div>
+        <>
+        <div> KJR Dev Portfolio </div>
+        <br></br>
+        <button> Continue </button>
+        </>
     )
 
 }
