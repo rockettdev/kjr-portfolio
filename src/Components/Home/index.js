@@ -2,9 +2,9 @@ function Home() {
 
     return (
         <>
-        <div> KJR Dev Portfolio </div>
-        <br></br>
-        <button> Continue </button>
+            <div className="text-neon-yellow"> K J R    D e v    P o r t f o l i o </div>
+            <br></br>
+            <button>Continue</button>
         </>
     )
 
