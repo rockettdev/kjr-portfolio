@@ -7,7 +7,7 @@ function App() {
       {/* <Navbar/> */}
       <div className="App">
         <header className="App-header">
-          <h1>Coming Soon!</h1>
+          <h1>KJR Dev</h1>
         </header>
       </div>
     </>
