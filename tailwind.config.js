@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       colors: {
         'neon-yellow':'#a4f542',
+      },
+      fontFamily: {
+        saira: ["Saira"]
       }
     },
   },
