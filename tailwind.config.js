@@ -7,7 +7,9 @@ module.exports = {
     extend: {
       colors: {
         'neon-yellow':'#a4f542',
-        'default':'#282c34'
+        'default':'#121418',
+        'secondary':'#272729'
+
       },
       fontFamily: {
         saira: ["Saira Condensed", "sans-serif"]

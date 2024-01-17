@@ -2,15 +2,18 @@ function Portfolio() {
 
     return (
         <>
-            <div className="grid md:grid-cols-7 p-4 bg-default items-center">
-                <h1 className="text-3xl text-neon-yellow bg-secondary
+            <div className="grid md:grid-cols-9 p-5 bg-default items-center">
+                <h1 className="font-saira text-4xl text-neon-yellow
                 "> KJR Dev </h1>
-                <h1 className="text-xl mx-auto text-white bg-secondary text-align hover:scale-105
-                "> Work </h1>
-                <h1 className="text-xl mx-auto text-white bg-secondary text-align hover:scale-105
+                <h1 className="font-saira text-xl mx-auto text-white text-align hover:scale-105
+                "> Projects </h1>
+                <h1 className="font-saira text-xl mx-auto text-white text-align hover:scale-105
                 "> About Me </h1>
-                <h1 className="text-xl mx-auto text-white bg-secondary text-align hover:scale-105
-                "> Contact Us </h1>
+                <h1 className="font-saira text-xl mx-auto text-white text-align hover:scale-105
+                "> Contact Me </h1>
+            </div>
+            <div className="bg-secondary">
+                shush
             </div>
         </>
     )
