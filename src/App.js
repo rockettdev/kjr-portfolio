@@ -1,13 +1,22 @@
+import { Route, Routes } from "react-router-dom"
 import './App.css';
 // import Navbar from './Components/Navbar';
+import Welcome from './Components/Welcome';
 import Home from './Components/Home';
-import Portfolio from './Components/Portfolio';
 
 function App() {
   return (
-    <>
-      <Portfolio/>
-    </>
+      <Routes>
+          <Route
+          path='/'
+          element={<Welcome />}
+          />
+          <Route
+          path='home'
+          element={<Home />}
+          />
+      </Routes>
+
   );
 }
 
