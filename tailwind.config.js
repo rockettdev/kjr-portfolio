@@ -12,7 +12,8 @@ module.exports = {
 
       },
       fontFamily: {
-        saira: ["Saira Condensed", "sans-serif"]
+        saira: ["Saira Condensed", "sans-serif"],
+        apple: ["Apple", "-apple-system", "system-ui", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Ubuntu"]
       },
       letterSpacing: {
         widest: '.25em'
