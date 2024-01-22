@@ -6,7 +6,7 @@ function Portfolio() {
                 <h1 className="font-apple text-3xl text-neon-yellow
                 ">KJR Dev</h1>
                 <h1 className="font-apple text-l mx-auto text-white text-align hover:scale-105
-                "> PROJECTS </h1>
+                ">PROJECTS</h1>
                 <h1 className="font-apple text-l mx-auto text-white text-align hover:scale-105
                 "> ABOUT ME </h1>
                 <h1 className="font-apple text-l mx-auto text-white text-align hover:scale-105
