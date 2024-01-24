@@ -13,12 +13,20 @@ function Portfolio() {
                 "> CONTACT ME</h1>
             </div>
             <div className="bg-secondary h-auto">
-                    <h1 className="font-apple pt-32 pb-20 text-center text-xl"> MY PROJECTS </h1>
+                    <h1 className="font-apple pt-20 pb-20 text-center text-xl"> MY PROJECTS </h1>
                     <div className="grid grid-cols-3 gap-4 place-items-center">
-                        <div className="bg-neon-yellow w-72 h-80">1</div>
-                        <div className="bg-neon-yellow w-72 h-80">2</div>
-                        <div className="bg-neon-yellow w-72 h-80"> 3</div>
-                        <div className="bg-neon-yellow w-72 h-80 mb-40">4</div>
+                        <div className="bg-neon-yellow w-72 h-72 ml-32 text-center">
+                            <h1> Mini-Golf </h1>
+                        </div>
+                        <div className="bg-neon-yellow w-72 h-72 text-center">
+                            <h1> Mini-Golf </h1>
+                        </div>
+                        <div className="bg-neon-yellow w-72 h-72 mr-32 text-center">
+                            <h1> Mini-Golf </h1>
+                        </div>
+                        <div className="bg-neon-yellow w-72 h-72 mb-64 mt-10 ml-32 text-center">
+                            <h1> Mini-Golf </h1>
+                        </div>
                     </div>
             </div>
         </>
