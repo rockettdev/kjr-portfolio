@@ -19,7 +19,7 @@ function Portfolio() {
                             <h1> Mini-Golf </h1>
                         </div>
                         <div className="bg-neon-yellow w-72 h-72 text-center">
-                            <h1> Mini-Golf </h1>
+                            <h1> Mini-Golf</h1>
                         </div>
                         <div className="bg-neon-yellow w-72 h-72 mr-32 text-center">
                             <h1> Mini-Golf </h1>
