@@ -13,7 +13,7 @@ function Portfolio() {
                 "> CONTACT ME</h1>
             </div>
             <div className="bg-secondary h-auto">
-                    <h1 className="font-apple pt-20 pb-20 text-center text-xl"> MY PROJECTS </h1>
+                    <h1 className="font-apple text-white pt-20 pb-20 text-center text-2xl"> MY PROJECTS </h1>
                     <div className="grid grid-cols-3 gap-4 place-items-center">
                         <div className="bg-neon-yellow w-72 h-72 ml-32 text-center rounded-xl hover:scale-105">
                             <h1 className="text-lg pt-2"> Mini-Golf Tracker </h1>
