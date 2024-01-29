@@ -1,5 +1,3 @@
-import { Cloudinary } from "@cloudinary/url-gen"
-import { AdvancedVideo } from "@cloudinary/react"
 
 function About () {
 
