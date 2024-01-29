@@ -1,5 +1,4 @@
 import { Route, Routes } from "react-router-dom"
-import './App.css';
 import Welcome from './Components/Welcome';
 import Home from './Components/Home/index.js';
 

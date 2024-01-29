@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import '../../App.css';
 import Typewriter from '../Typewriter/index.js'
 
 function Home() {
