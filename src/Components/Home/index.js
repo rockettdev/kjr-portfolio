@@ -30,7 +30,6 @@ function Portfolio() {
                         <div className="bg-neon-yellow w-72 h-72 mb-64 mt-10 text-center rounded-xl hover:scale-105">
                             <h1 className="text-lg pt-2"> Interactive Grocery Basket Calculator </h1>
                         </div>
- 
                     </div>
             </div>
         </>
