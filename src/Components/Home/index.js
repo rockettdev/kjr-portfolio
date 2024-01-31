@@ -1,9 +1,11 @@
+import Navbar from '../Navbar/index.js'
 
 function About () {
 
 
     return (
         <>
+            <Navbar/>
             <div>
                 <header className="flex flex-col h-screen justify-center items-center ">
                     <div className="text-neon-yellow font-saira text-4xl text-center">
