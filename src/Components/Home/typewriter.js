@@ -17,7 +17,7 @@ const Typewriter = () => {
       ]}
       wrapper="span"
       speed={25}
-      style={{ fontSize: '2em', display: 'inline-block' }}
+      style={{ fontSize: '1em', display: 'inline-block' }}
       repeat={Infinity}
     />
   );
