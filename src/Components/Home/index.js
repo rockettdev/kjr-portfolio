@@ -13,8 +13,6 @@ function About () {
                         <h1 >I'm an independent Junior Software Developer from Bath, UK.</h1>
                     </div>
                 </header>
-                <video src={process.env.PUBLIC_URL + "/assets/video/night.mp4"}
-                loop autoPlay muted className="object-cover absolute h-screen w-screen -z-10 top-0 left-0"> </video>
             </div>
         </>
     )
