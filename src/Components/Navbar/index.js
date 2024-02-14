@@ -11,10 +11,10 @@ function Navbar() {
                 <div className="lg:flex md:flex lg:  flex-1 items-center justify-end font-apple hidden">
                     <div className="flex-10">
                         <ul className="flex gap-8 mr-16 text-[18px] text-black">
-                            <Link>
+                            <Link to=''>
                                 <li>About</li>
                             </Link>
-                            <Link>
+                            <Link to='projects'>
                                 <li>Projects</li>
                             </Link>
                             <Link>
