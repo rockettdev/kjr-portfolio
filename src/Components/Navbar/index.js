@@ -25,6 +25,9 @@ function Navbar() {
                     </div>
                 </div>
             </div>
+            <div className="bg-black h-0.5">
+
+            </div>
         </nav>
     )
 }
