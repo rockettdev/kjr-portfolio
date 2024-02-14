@@ -6,7 +6,7 @@ const Typewriter2 = () => {
       sequence={[
         // Initial substring
         5000,
-        `I specialise in JavaScript, React, Node, TailwindCSS and many more...`,
+        `I specialise in JavaScript, React, Node, TailwindCSS and many more.`,
         1000
         // 1000, // wait 1s before replacing characters
       ]}

@@ -3,21 +3,28 @@ import { Link } from "react-router-dom"
 function Navbar() {
 
     return (
-        <div className="grid md:grid-cols-9 p-5 bg-default items-center">
-            <h1 className="font-apple text-3xl text-neon-yellow
-            "> <Link to="/home"> KJR Dev </Link></h1>
-            <h1> </h1>
-            <h1> </h1>
-            <h1> </h1>
-            <h1> </h1>
-            <h1> </h1>
-            <h1 className="font-apple text-l mx-auto text-white text-align hover:scale-105
-            "> <Link to="/portfolio">PROJECTS</Link></h1>
-            <h1 className="font-apple text-l mx-auto text-white text-align hover:scale-105
-            "> ABOUT ME </h1>
-            <h1 className="font-apple text-l mx-auto text-white text-align hover:scale-105
-            "> CONTACT ME</h1>
-        </div>
+        <nav>
+            <div className="h-10vh flex justify-between z-50 text-white lg:py-5 px-20 py-4">
+                <div className="flex items-center flex-1">                    
+                    <span className="text-3xl font-bold text-black">KJR DEV</span>
+                </div>
+                <div className="lg:flex md:flex lg:  flex-1 items-center justify-end font-apple hidden">
+                    <div className="flex-10">
+                        <ul className="flex gap-8 mr-16 text-[18px] text-black">
+                            <Link>
+                                <li>About</li>
+                            </Link>
+                            <Link>
+                                <li>Projects</li>
+                            </Link>
+                            <Link>
+                                <li>Contact</li>
+                            </Link>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
     )
 }
 
