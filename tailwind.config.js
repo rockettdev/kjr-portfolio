@@ -9,7 +9,7 @@ module.exports = {
         'neon-yellow':'#a4f542',
         'default':'#121418',
         'secondary':'#272729',
-        'cream': 'ffdab9'
+        'cream': '#ffe9d6'
       },
       fontFamily: {
         saira: ["Saira Condensed", "sans-serif"],

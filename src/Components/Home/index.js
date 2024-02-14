@@ -1,6 +1,5 @@
 import Navbar from '../Navbar/index.js'
 import Typewriter from './typewriter.js'
-import Typewriter2 from './typewriter2.js'
 
 function About () {
 
