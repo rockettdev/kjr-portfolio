@@ -1,9 +1,8 @@
 import Navbar from '../Navbar/index.js'
-import Typewriter from './typewriter.js'
+import Typewriter from '../Typewriter/index.js'
 import Portrait from '../../Assets/portrait.jpg'
 
 function About () {
-
 
     return (
         <>
